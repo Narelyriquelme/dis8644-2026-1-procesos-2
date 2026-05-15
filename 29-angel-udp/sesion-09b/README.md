@@ -58,3 +58,7 @@ En propiedades de las huellas se puede cambiar el modelo 3D para ajustar la posi
 
 Cad assistance, programa para ver modelos 3D
 
+Sitio web:
+
+- Hackday.com
+- (Logic noise sweet oscilator sounds)
