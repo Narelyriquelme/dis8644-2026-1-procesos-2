@@ -31,6 +31,7 @@ KiCad es un software gratuito y de fuente abierta para diseño y fabricación de
 
 | tecla | acción |
 |-------|--------|
+| `A` | agrega un componente |
 | `V` | dar valor al componente |
 | `M` | mover componente |
 | `R` | rotar componente |
