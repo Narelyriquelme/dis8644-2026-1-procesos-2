@@ -27,4 +27,16 @@ Se hizo un repaso de la clase anterior y contestar preguntas que se formaran res
 
 #### Solemne: Grupo Oscilador 
 
-#### Hacia una filosifia de la fotografia- cap.2
+#### Hacia una filosifia de la fotografia- cap.2 " la imagen tecnica"
+
++ es producida por un aparato. Los aparatos son el resultado de la aplicación de textos científicos; por ende, las imágenes técnicas son productos indirectos de la ciencia.
++ imágenes técnicas engañan al observador porque aparentan grabarse automáticamente (como una huella digital). Esto genera una actitud acrítica en las personas, quienes las miran como si fueran ventanas directas al mundo y no códigos altamente abstractos que requieren ser descifrados.
+
+Observacion 
++ Pantallas como verdades: las redes sociales (Instagram, TikTok) funcionan bajo la "ilusión de objetividad" . Los ciudadanos consumen estilos de vida, estándares de éxito y publicidad creyendo que ven la "realidad", cuando solo consumen conceptos programados para el consumo masivo.
+
++ la política a "Meme": La sociedad chilena ha pasado de debates conceptuales e históricos a reaccionar a estímulos visuales inmediatos (TIKTOK). La política se hace en videos cortos y cuñas de 15 segundos. La "masa amorfa" ya no se mueve por grandes textos programáticos, sino por la emoción de la imagen técnica del momento.
+
++ ir a un restaurante, un concierto o una marcha en Santiago solo para "subir la historia" demuestra la atracción centrípeta de aporvación. El valor de la vida y el consumo en el Chile actual ya no está en el hecho en sí, sino validado en la pantalla.
+
+
