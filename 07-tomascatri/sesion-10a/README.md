@@ -46,7 +46,7 @@ La idea es expandir lo que es una publicacion, estaria en un flexidisk, incluye 
 
 lo que esta construyendo es un archivo de proyecto.
 
-## Simons y firt?
+### Simons y firt?
 
 simons tiene un escaner que tiene un espejo adentro en horizontal y vertical y el escaner tiene un lase rque choca con el mundo y pueden hacer modelos digitales.
 
@@ -66,6 +66,31 @@ Se usa una app llamada polycam y otro que pureengine.
 los rayos no ven por el interrior da la sencacion pero no.
 mi curiosidad me hace preguntar como funciona la caja negra.
 
+## apuntes 2.0 despues de charla
+
+Nocion de control de voltage, mietras mas arriba la copa de agua mas presion.
+
+9V lienzo espacio entre 0V y 9V osea ground y vcc
+
+4046 = con un gesto convierte la frecuencia. uno puede cambiar la frecuencia segun el voltaje que se le de.
+
+el 4093 convierte la resistencia en frecuencia. 
+
+VCO = oscilador controlado por volataje si se cambia el volataje de entras se apura o relentiza la oscilacion. 9V chilla mas agudo mientras mas baja es mas grave.
+
+Componente de impacto con los golpes suena.
+
+4040 = se salta una subida de voltaje, se puede decir que deja pasar los pares. se le dice binary counter, si agarro estas 3 señales y las añadimos a las resistencias 
+
+Multiplexor = Cada informacion es un voltaje y una es la quqe decide cual es la salida
+
+Lm741
+
+lm358
+
+lm 324
+
+Relay = si le llega electricidad se prende, si no le llega, apaga
 
 
 
