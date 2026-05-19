@@ -2,3 +2,4 @@
 
 clase del 19 de mayo
 
+caps lock: leer libro
