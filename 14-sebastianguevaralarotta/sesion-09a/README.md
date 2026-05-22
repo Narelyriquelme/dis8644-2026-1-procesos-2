@@ -54,7 +54,7 @@ En el caso del speaker, fue necesario revisar el tipo de conexión y verificar l
 
 <img width="839" height="476" alt="errores01" src="https://github.com/user-attachments/assets/a10db200-3e57-40a1-a77f-13889afd4ef9" />
 
-<img width="698" height="488" alt="pcb01" src="https://github.com/user-attachments/assets/5e41a205-b2f0-4730-a008-6e2817ea1aa2" />
+<img width="839" height="476" alt="pcb01" src="https://github.com/user-attachments/assets/5e41a205-b2f0-4730-a008-6e2817ea1aa2" />
 
 En esta etapa del proyecto el trabajo se enfocó principalmente en mejorar la distribución de los componentes dentro de la PCB para optimizar el espacio y facilitar el ruteo de las conexiones. A medida que avanzaba el diseño, fue necesario reorganizar varias veces resistencias, capacitores y el circuito integrado para evitar cruces innecesarios y mantener un orden más claro dentro de la placa.
 
@@ -64,9 +64,35 @@ Durante este proceso aparecieron algunos errores DRC relacionados con distancias
 
 Finalmente, esta etapa ayudó a desarrollar una comprensión más práctica sobre cómo planificar una placa electrónica considerando no solo el circuito, sino también sus limitaciones físicas y de fabricación.
 
-```
-```
+<img width="828" height="594" alt="placa01" src="https://github.com/user-attachments/assets/3248a4aa-f8c7-4906-8bcb-caed846914a2" />
 
+<img width="828" height="594" alt="placa02" src="https://github.com/user-attachments/assets/e89781f7-4954-435b-8a8b-1eee20844c70" />
+
+# Bitácora — Visualización 3D y estado de la PCB
+
+En esta etapa del proyecto fue posible visualizar la PCB de manera mucho más cercana a cómo se vería físicamente una vez fabricada. Utilizando el render 3D de KiCad, se puede observar con mayor claridad la distribución final de los componentes sobre la placa, incluyendo las resistencias alineadas en la parte superior izquierda, los capacitores ubicados debajo y el circuito integrado en el centro del diseño. También destaca el componente más grande ubicado al lado derecho, correspondiente al potenciómetro, el cual ocupa gran parte del espacio disponible dentro de la PCB.
+
+La visualización 3D ayudó bastante a entender proporciones reales y detectar detalles que no eran tan evidentes en la vista tradicional de PCB. Por ejemplo, permitió revisar mejor las distancias entre componentes y notar cómo ciertos elementos podían quedar demasiado juntos al momento de fabricar la placa físicamente.
+
+Aunque la organización general ya se encuentra bastante más clara y ordenada, todavía falta completar gran parte del proceso de unión entre componentes mediante pistas. Esta etapa ha sido una de las más difíciles hasta ahora, ya que requiere bastante paciencia para encontrar rutas limpias sin generar cruces o errores de conexión. En varias ocasiones fue necesario reiniciar parte del trabajo porque algunas rutas quedaban demasiado desordenadas o interferían con otros componentes.
+
+<img width="1155" height="771" alt="pruebadehuellas" src="https://github.com/user-attachments/assets/f6c1a107-e152-45d5-9356-57a6aad5ad4a" />
+
+<img width="1155" height="771" alt="pruebadedist" src="https://github.com/user-attachments/assets/18df6f1a-5a69-47ac-9635-136403204315" />
+
+Además, una dificultad importante durante el desarrollo ha sido el rendimiento del computador. Mientras se trabaja en KiCad, especialmente utilizando herramientas 3D o realizando múltiples cambios en la PCB, el programa a veces se cierra inesperadamente. Esto ha complicado bastante el avance del proyecto, porque en ocasiones se pierde parte del progreso realizado y es necesario volver a acomodar componentes o rehacer conexiones.
+
+Aun así, este proceso ha permitido comprender mucho mejor cómo se construye una placa electrónica real y cómo pequeños cambios en la distribución pueden afectar directamente la facilidad del ruteo y el orden general del diseño. Poco a poco el trabajo dentro de KiCad se ha vuelto más intuitivo, especialmente al entender mejor la relación entre la organización visual y el funcionamiento práctico de la PCB.
+
+<img width="448" height="634" alt="listadeopciones" src="https://github.com/user-attachments/assets/709bd46a-de6c-4aa4-b898-35423fd5563e" />
+
+Otro aspecto que complicó bastante el desarrollo fue la búsqueda de componentes y footprints compatibles dentro de KiCad. En varias ocasiones algunos componentes simplemente no aparecían en las librerías predeterminadas del programa, por lo que fue necesario buscar alternativas en internet o revisar recursos compartidos en el Discord del curso. Muchas veces también hubo que descargar huellas externas y configurarlas manualmente para que funcionaran correctamente dentro del proyecto. Este proceso alargó considerablemente el tiempo de trabajo, pero también permitió entender la importancia de planificar bien las librerías y compatibilidades desde el inicio, algo que será muy importante considerar en futuros proyectos electrónicos.
+
+<img width="448" height="634" alt="huellas" src="https://github.com/user-attachments/assets/18561a2d-5723-48bb-8bdf-c2f7a520cb40" />
+
+- HUELLAS.
+
+- # Análisis y Reflexión de los Capítulo 1 — Filosofía de la Fotografía
 
 El capítulo 1 habla sobre la importancia que tienen las imágenes en la vida humana y cómo estas han sido una herramienta para entender el mundo desde hace muchísimo tiempo. El autor explica que las imágenes no son solamente algo decorativo o artístico, sino que también ayudan a las personas a interpretar la realidad, recordar momentos y transmitir ideas o emociones. Antes incluso de la escritura, las personas ya utilizaban dibujos y símbolos para comunicarse y darle sentido a lo que veían a su alrededor. Por eso, las imágenes siempre han estado muy ligadas a la forma en que pensamos y entendemos las cosas.
 
