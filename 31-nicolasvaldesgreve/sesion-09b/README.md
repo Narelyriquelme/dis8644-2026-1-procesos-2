@@ -2,7 +2,7 @@
 
 # Apuntes clase 15/05
 
-Esta clase se dedicó para resolver todo tipo de dudas que se nos hayan generado en el proceso del encargo anterior el cual fue armar dos PCB dentro de KiCad en base a nuestros sintetizadores. Como se abordaron dudas de todo tipo, esta bitacora será un punteo de cosas que no sabía y me alegro de que se hayan mencionado:
+Esta clase se dedicó para resolver todo tipo de dudas que se nos hayan generado en el proceso del encargo anterior el cual fue armar dos PCB dentro de KiCad en base a nuestros sintetizadores. Como se abordaron dudas de todo tipo, esta bitácora será un punteo de cosas que no sabía y me alegro de que se hayan mencionado:
 
 ### 1- Huella con tamaño predeterminado para chips
 
@@ -33,3 +33,5 @@ Una vez ya estemos en la sección del modelo 3d podemos ver que nos aparece una 
 ![Cambiar ruta del modelo](./imagenes/ruta.png)
 
 Cuando ya hayamos agregado la ruta, nos va a aparecer el modelo en el visualizador que tenemos en la ventana. Ahora lo único que queda es encajar el modelo dentro de los espacios que tiene la PCB!! para ésto tenemos que ir modificando las variantes de ``Rotación`` y ``Desfase``.
+
+![Modelo ya encajado](./imagenes/ajuste.png)
