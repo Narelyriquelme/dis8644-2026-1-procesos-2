@@ -41,10 +41,10 @@ Primera opción: Utilizar el chip 4046
 + Es un chip de bucle bloqueado por fase (PLL)
 + Los PLL son circuitos dulces. En el uso normal, se pone una forma de onda con una frecuencia dada, y el PLL emite una onda cuadrada que se sincroniza con la entrada, pero a una frecuencia más alta. Funciona teniendo un oscilador controlado por voltaje (VCO) en el interior y accionando el VCO con una señal de voltaje que depende de la diferencia de frecuencia entre el VCO interno y la señal externa.
 + La entrada de voltaje para el VCO está en el pin 9, y la salida está en el pin 4.
-
-
 + CD4046B CMOS Micropower Phase-Locked Loop (PLL) consta de un oscilador lineal controlado por voltaje (VCO) de bajo consumo y dos comparadores de fase diferentes que tienen un amplificador común de entrada de señal y una entrada común para comparadores. Se proporciona un diodo zener de 5,2 V para la regulación de suministro si es necesario.
 
+![4046](./imagenes/cd4046.png)
+![4046](./imagenes/4046.png)
 
 
 
