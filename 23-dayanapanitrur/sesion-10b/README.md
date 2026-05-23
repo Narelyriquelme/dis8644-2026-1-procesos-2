@@ -24,6 +24,6 @@ En el caso de que se hubieran conectado los 12 pasos, el reset se conectaría di
 
 ![imagen](./imagenes/4040-pinout-diagrama.png)
 
-Para poder visualizar mejor creé un esquemático en KiCad a la rápida del clock + secuenciador:
+Para poder visualizar mejor como iría la conexión entre estos, creé un esquemático en KiCad muy a la rápida del clock + secuenciador:
 
 ![imagen](./imagenes/esquematico-primera-prueba-4040.png)
