@@ -29,7 +29,7 @@ Autor: homemade-circuits
 
 + Desicidomos que elegiriamos un chip para la propuesta en  la siguiente clase y poder ver que se podia hacer con tro y cuales eran las diferencias entre otro ( aparte de hacer las solemenes).
 
-
+--------
 
 #### Hacia una filosifia de la fotografia- cap.3 " los aparatos"
 
