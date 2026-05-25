@@ -11,3 +11,6 @@ Me suelen surgir muchas dudas cuando leo este tipo de textos, porque a veces me 
 
 También me hizo pensar en la idea del cyborg de Donna Haraway, porque muestra que la tecnología no está separada de nosotros, sino que influye en cómo vemos y entendemos el mundo. Al final siento que tanto Flusser como Haraway cuestionan esta idea, porque siempre estamos viendo la realidad a través de algo que la modifica. Este tema igual es algo que pienso mucho y que me preocupa, porque también sirve para pensar cuánto control tenemos realmente sobre la tecnología. Normalmente creemos que usamos la cámara como una herramienta, pero Flusser propone que el aparato también nos guía y limita sin que lo notemos, influye en cómo vemos, pensamos y actuamos. Y es exactamente lo que sucede hoy en día. 
 
++ Falté ese día a la clase por temas de salud, me perdí la charla pero intenté ponerme al día con los apuntes de mis compañeros.
+
+  
