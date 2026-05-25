@@ -43,17 +43,16 @@ Y estas oscilaciones, se controlan con los potenciómetros, que son lo que nos p
 
 | Chip | Descripción |
 |------|-----|
-| **4046**  |Circuito PLL (Phase Locked Loop) que incluye un VCO integrado. Muy usado, en síntesis, generación y sincronización de señales. <br><br> (El término PLL (Phase Locked Loop) significa que el circuito “escucha” una señal externa y ajusta su propia frecuencia para mantenerse sincronizado con ella. Y como trae un VCO integrado, se puede controlar la frecuencia usando voltaje.) <br><br> En sintetizadores se puede usar para; crear tonos, sincronizar osciladores, y hacer efectos electrónicos interesantes.|
-| 4051 | Multiplexor/Demultiplexor analógico de 8 canales. Sirve para seleccionar una señal entre varias entradas. Este chip funciona como un selector electrónico. Po ejemplo: tienes 8 señales diferentes, pero quieres elegir solo una a la vez. <br><br> Se usa para: seleccionar sensores, enrutar audio, cambiar señales en sintetizadores, ahorrar conexiones y componentes.*(Con este también podría hacer un secuenciador jiji para la solemne).*
+| `4046`  |Circuito PLL (Phase Locked Loop) que incluye un VCO integrado. Muy usado, en síntesis, generación y sincronización de señales. <br><br> (El término PLL (Phase Locked Loop) significa que el circuito “escucha” una señal externa y ajusta su propia frecuencia para mantenerse sincronizado con ella. Y como trae un VCO integrado, se puede controlar la frecuencia usando voltaje.) <br><br> En sintetizadores se puede usar para; crear tonos, sincronizar osciladores, y hacer efectos electrónicos interesantes.|
+| `4051` | Multiplexor/Demultiplexor analógico de 8 canales. Sirve para seleccionar una señal entre varias entradas. Este chip funciona como un selector electrónico. Po ejemplo: tienes 8 señales diferentes, pero quieres elegir solo una a la vez. <br><br> Se usa para: seleccionar sensores, enrutar audio, cambiar señales en sintetizadores, ahorrar conexiones y componentes.*(Con este también podría hacer un secuenciador jiji para la solemne).*
 
 ### **Chips Amplificadores:**
-> *(Los op-amp, son amplificadores operacionales)*
+> *(“Op-amp” significa amplificadores operacionales)*
 
 | Chip | Descripción |
 |------|-----|
-| **LM 741** |  Amplificador operacional clásico (op-amp).  |
-| **LM 358** | Doble amplificador operacional. Tiene 2 op-amps dentro del mismo chip y funciona bien con una sola fuente de alimentación.|
-| **LM 324** | Cuádruple amplificador operacional. Incluye 4 op-amps en un solo chip. |
-
+| `LM 741` |  Amplificador operacional clásico (op-amp).  |
+| `LM 358` | Doble amplificador operacional. Tiene 2 op-amps dentro del mismo chip y funciona bien con una sola fuente de alimentación.|
+| `LM 324` | Cuádruple amplificador operacional. Incluye 4 op-amps en un solo chip. |
 
 ## 5.	Flusser, cap. 4, 5
