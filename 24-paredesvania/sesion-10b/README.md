@@ -103,7 +103,7 @@ Así que intentamos recrear este esquemático:
 
 [![Drum Reference Video](https://img.youtube.com/vi/Qx_vgkgQllE/hqdefault.jpg)](https://www.youtube.com/watch?v=Qx_vgkgQllE)
 
-![Circuit](./imagenes/kick.jpeg)
+![Circuit](./imagenes/kick.png)
 
 Pero había un detalle sobre este, nos gusta mucho por como suena, y usa un chip 40106BE y un 4069UBE, pero no tenemos un chip 4069UBE, tenemos un BE, misa nos dijo que esto era importante.
 
