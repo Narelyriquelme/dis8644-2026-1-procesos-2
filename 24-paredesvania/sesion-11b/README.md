@@ -9,6 +9,8 @@ Entender en qué soy mediocre, en qué soy mediocre y me gusta, en qué soy buen
 <https://en.wikipedia.org/wiki/Phone_connector_(audio)>
 
 ![plug](./imagenes/plug.png)
+![plug](./imagenes/make.jpeg)
+![plug](./imagenes/nico.jpeg)
 
 ---
 ### Capítulo 5
