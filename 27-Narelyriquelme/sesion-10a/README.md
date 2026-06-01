@@ -1,7 +1,7 @@
 # sesion-10a
 ## 19, May
 ### Apuntes
-Esta clase fue muy dinamica e hicimos muchas 
+Esta clase fue muy dinamica
 
 Elian radigue - kyema
 
