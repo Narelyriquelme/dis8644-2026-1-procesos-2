@@ -38,6 +38,50 @@ Para la siguiente clase deberia ver si poner las huellas
 
 Parece ser un dia bastante menos agitado de lo usual, pero igualmente me alegra cooperar :3
 
+---
+
+## Percutor time!
+
+![Proyecto](./imagenes/version2.png)
+
+Aquí se demuestra la segunda propuesta en su esplendor
+
+![555](./imagenes/555_agregado.png)
+
+Se ve más en detalle el 555 integrado junto al percutor que ya hicimos para la propuesta 1
+
+Se supone que esto (Percutor) funciona como un platillo de bateria, si lo golpeas, sonara. AHORA TIENE UNA LOGICA! El 555 funciona como la baqueta que marca el ritmo
+
+![CINEMA](./imagenes/cine.gif)
+
+*También se me olvido agregar el nombre al proyecto*
+
+![Womp](./imagenes/olvidado.png)
+
+---
+
+Nota: La fuente de poder ahora es diferente:
+
+![Jack](./imagenes/entrada_audio.jpg)
+
+
+## Armado loco:
+
+![Proceso de reloj y secuenciador](./imagenes/armado.jpg)
+
+![Proceso de reloj y secuenciador](./imagenes/armado_1.jpg)
+
+![Proceso de reloj y secuenciador](./imagenes/modify.jpg)
+
+![Proceso de reloj y secuenciador](./imagenes/modify_2.jpg)
+
+Y MIRA COMO SUENA EL BABY!:
+
+
+
+
+
+
 
 
 
