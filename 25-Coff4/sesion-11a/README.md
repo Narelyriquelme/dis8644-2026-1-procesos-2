@@ -106,3 +106,6 @@ Como todo en general. Somos libres de comunicarnos, pero también de manipular c
 
 Todo lleno de combinaciones hechas por y para nosotres.
 
+"La tarea de una filosofía de la fotografia consiste en analizar la posi- bilidad de la libertad en un mundo dominado por los aparatos; en discurrir cómo es posible dar significado a la vida humana en presen- cia de la accidental necesidad de la muerte. Necesitamos una filosofia así, porque representa la última forma de revolución que todavía es accesible para nosotros"
+
+LIBERTAD COMO METODO DE DEFENSA ANTE LA REVOLUCIÓN!
