@@ -54,9 +54,9 @@ Entre ellos:
 
 Aun con el inconveniente logramos tener más documentacion en video, con sonidos bastantes exoticos y buenos.:
 
-![yomyom](./imagenes/step_uno.png)
+![yomyom](./imagenes/step_uno.jpg)
 
-![finale](./imagenes/selfie.png)
+![finale](./imagenes/selfie.jpg)
 
 [![Ver video](https://img.youtube.com/vi/N4V_wuEXsTs/maxresdefault.jpg)](https://www.youtube.com/watch?v=N4V_wuEXsTs)
 
