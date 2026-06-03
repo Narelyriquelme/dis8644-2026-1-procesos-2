@@ -57,6 +57,23 @@ Bien luminoso, negro malo.
 
 Abstracción – detalle
 
+A partir de esto, Misaa y Aaron se dieron cuenta que algunos quizás no leyeron los textos o no quisieron comentar sobre ellos. Por mi parte, no lo hice. 
+
+La filosofía es un área la cual está denominada por la sociedad como algo el cual necesitas “mucha cabeza” “compleja” además que no soy una lectora activa, entonces eso me hace tener una predisposición negativa a la hora leer sobre todo filosofía. Entonces internamente decía “no me la voy a poder, no entenderé nada” y lo fui postergando todo. 
+
+Esto me hizo acercarme a ellos y decirle lo que sentía, necesitaba reflexionar y destacó algo que nuevamente me dijo Missa “Que las preguntas te movilicen”. Que frase más linda que esta. Que tu curiosidad te lleve a lugares nuevos y aprender. Hoy en día me siento así.
+
+A veces hay que pensar que no entenderás todo lo que lees, quizás leas un libro de 1000 paginas y solo entendiste la página 500, pero eureka, ahora sabes más que ayer, pero menos que mañana. 
+
+Entre más sé que sé, más sé que no sé
+
+- Leer mucho no necesariamente entendiendo todo.
+- Que las preguntas te movilicen.
+- Respirar ya es hacer algo.
+- No tener todo resuelto, que lo rugoso sea lo bello.
+- No tener miedo al fracaso.
+- A veces las preguntas nos ayudan.
+- Hay que quitarse el miedo.
 
 ### imagenes de proceso
 
