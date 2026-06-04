@@ -28,9 +28,9 @@ Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo ad
 
 ### Esquemático 1
 
-```markdown
+
 ![esquemático circuito](./imagenes/oscilador-v02.png)
-```
+
 
 ### PCB 1
 
@@ -60,9 +60,9 @@ Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo ad
 
 ### Esquemático 2
 
-```markdown
+
 ![esquemático circuito](./imagenes/oscilador-v03.png)
-```
+
 
 ### PCB 2
 
