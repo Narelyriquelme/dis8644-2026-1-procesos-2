@@ -18,6 +18,7 @@ Tema del grupo: **Oscilador 2**
 
 
 ![*chirihue mecanizado*](./imagenes/titulo1oscilador1.gif)
+*(Video generado con Google flow)*
 
 <br>
 <br>
@@ -96,6 +97,8 @@ _____________________________________________________________________
 ## Propuesta 02: Comunicaciones espaciales
 
 ![*Comunicaciones espaciales*](./imagenes/titulo2osciladorr2.gif)
+*Video perteneciente a “MotionVibe”, en Youtube.*
+
 ![## Propuesta 02: Comunicaciones espaciales](./imagenes/titulo2oscilador2.gif)
 
 <br>
