@@ -81,13 +81,14 @@ El nucleo del módulo es el chip CD4046, cuya frecuencia de oscilación varía s
 
 ### PCB 2
 
-```markdown
-![pcb front](./imagenes/pcb-front-2.png)
-```
++ Front
+  
+![pcb front](./imagenes/pcb2-1.jpg)
 
-```markdown
-![pcb back](./imagenes/pcb-back-2.png)
-```
++ Back
+  
+![pcb back](./imagenes/pcb2-2.jpg)
+
 
 ### Documentación audiovisual funcionamiento protoboard 2
 
@@ -105,6 +106,6 @@ Le proporcionamos ayuda al grupo que tambien estaba haciendo osciladores, presta
 
 ### ¿Cómo me ayudó otro grupo?
 
-Le daremos créditos especiales al grupo de piezos, quienes fueron de gran ayuda, ya que gracias a ellos resolvimos muchas dudas que nos surgieron a lo largo del proyecto. Al haber pasado por los mismos problemas que nosotros, nos ayudaron con la gráfica, nos prestaron potenciómetros, resolvieron dudas de bitácora y nos brindaron mucho apoyo emocional. También nuestro compañero Nicolás Miranda nos ayudó con las conexiones de la protoboard, ya que al inicio no logramos que sonara como oscilador, no existían variaciones y nos frustramos. Consultamos con Nico y él revisó el esquemático y la protoboard, llegando a la conclusión de que teníamos cables mal conectados.
+Le daremos créditos especiales al grupo de piezos, quienes fueron de gran ayuda, ya que gracias a ellos resolvimos muchas dudas que nos surgieron a lo largo del proyecto. Al haber pasado por los mismos problemas que nosotros, nos prestaron potenciómetros, resolvieron dudas de bitácora y nos brindaron mucho apoyo emocional. También nuestro compañero Nicolás Miranda nos ayudó con las conexiones de la protoboard, ya que al inicio no logramos que sonara como oscilador, no existían variaciones y nos frustramos. Consultamos con Nico y él revisó el esquemático y la protoboard, llegando a la conclusión de que teníamos cables mal conectados, además nos ayudó a resolver como mejorar la gráfica de la pcb. 
 
 ## Bibliografía
