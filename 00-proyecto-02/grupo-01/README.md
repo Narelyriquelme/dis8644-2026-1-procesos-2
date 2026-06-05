@@ -114,9 +114,9 @@ El circuito se conforma por 4 partes:
 
 Este circuito emplea el funcionamiento de *activador* es decir, envía señal a un módulo siguiente, el cual para verificar su funcionamiento se utiliza un led o se puede conectar a una salida de audio utilizando un Amp y parlante. 
 
-El chip LM324 se utiliza como DC offset, regulando el voltaje bajando a la mitad 9V ---> 4.5V. Además, cuenta con una salida de audio [pin 7] que utilizamos como salida para el siguiente modulo. De esta manera al interactuar con el piezo la señal se ve distorsionada por un breve periodo de tiempo ya que la señal que emite el circuito es constante.
+El chip LM324 se utiliza como DC offset, regulando el voltaje bajando a la mitad 9V ---> 4.5V. Además, cuenta con una salida de audio [pin 7] que utilizamos como salida para el siguiente módulo. De esta manera al interactuar con el piezo la señal se ve distorsionada por un breve periodo de tiempo ya que la señal que emite el circuito es constante.
 
-En cuanto a los reguladores de voltaje, ya que nuestro chip LM324 ya cuenta con uno decidimos crear dos versiones, una con el standard y uno sin. 
+En cuanto a los reguladores de voltaje, ya que nuestro chip LM324 cuenta con uno decidimos crear dos versiones, una con el estándar dado para la sección y uno con el integrado en el circuito. 
 
 ### Esquemático 2
 
