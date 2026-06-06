@@ -487,7 +487,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "percusion-01-v05.kicad_pro",
+    "filename": "g-06-perc-01-rev-a.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -523,7 +523,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../2-archivos-produccion/g06-perc-01-rev-a/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -642,18 +642,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "percusion-01-v05.kicad_sch",
-        "name": "percusion-01-v05",
+        "filename": "g-06-perc-01-rev-a.kicad_sch",
+        "name": "g-06-perc-01-rev-a",
         "uuid": "15eaeb27-aa21-4f97-8159-18c749fa06b7"
       }
     ],
-    "used_designators": "U2-3",
+    "used_designators": "#PWR5-6,J5,U2-3",
     "variants": []
   },
   "sheets": [
     [
       "15eaeb27-aa21-4f97-8159-18c749fa06b7",
-      "percusion-01-v05"
+      "g-06-perc-01-rev-a"
     ]
   ],
   "text_variables": {},

@@ -9698,7 +9698,7 @@
 	)
 	(text "Mientras más pequeño\nmás fácil es que fluya la energia "
 		(exclude_from_sim no)
-		(at 27.686 111.76 0)
+		(at 14.351 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9747,7 +9747,13 @@
 		(at 67.31 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "359be326-d6dc-4c85-b5f4-ea4ea488ecbb")
+		(uuid "33fc71c4-ff4a-49a8-befc-8425e7a5b152")
+	)
+	(junction
+		(at 88.9 191.135)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a584c43-ebd5-46f4-844c-5af3e2fb1f2b")
 	)
 	(junction
 		(at 194.31 144.78)
@@ -9768,6 +9774,18 @@
 		(uuid "560b378e-376f-4801-8fa8-24e87e065062")
 	)
 	(junction
+		(at 60.96 177.165)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f53ee2d-eb97-4f37-8abf-cf2063c6f40b")
+	)
+	(junction
+		(at 109.22 177.165)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "890cf133-48e1-412f-81c0-54daa5e1aa1f")
+	)
+	(junction
 		(at 218.44 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9786,16 +9804,40 @@
 		(uuid "9edc0777-d382-4856-8145-11f34266e75b")
 	)
 	(junction
+		(at 60.96 191.135)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4217353-d2f4-43f1-93af-380a3eb80db7")
+	)
+	(junction
 		(at 218.44 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a4ce6d8d-c122-49fc-84f6-d8ced76e7005")
 	)
 	(junction
+		(at 86.995 191.135)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b19ca159-5c77-47d2-ac64-d748fb3795f0")
+	)
+	(junction
 		(at 134.62 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b44b96ae-671e-4aca-8059-e0f184bee9dd")
+	)
+	(junction
+		(at 40.64 177.165)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c31f646f-1fa2-4a40-ab5b-0d3a5a055485")
+	)
+	(junction
+		(at 88.9 177.165)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7b31262-3697-48e4-94ff-ddebe5bb97ff")
 	)
 	(junction
 		(at 194.31 130.81)
@@ -9816,7 +9858,7 @@
 		(uuid "ff709f50-5122-4d7b-9fac-35e3397357ea")
 	)
 	(no_connect
-		(at 76.2 187.96)
+		(at 76.2 177.165)
 		(uuid "0fd3a6c2-9285-498d-a92a-38d6feda02af")
 	)
 	(no_connect
@@ -9828,18 +9870,6 @@
 		(uuid "27671b73-f278-4dc2-b4c8-f0410e310b35")
 	)
 	(no_connect
-		(at 88.9 172.72)
-		(uuid "27f767ae-cc99-4550-9a96-18df629caeaf")
-	)
-	(no_connect
-		(at 60.96 172.72)
-		(uuid "36b2ff8e-0dbf-439c-98d5-d6163190f4e3")
-	)
-	(no_connect
-		(at 55.88 187.96)
-		(uuid "3b98f61c-db3d-4164-a720-0866f62dcdc2")
-	)
-	(no_connect
 		(at 125.73 63.5)
 		(uuid "4f97f6cf-7845-4a12-871b-966ad9ef950d")
 	)
@@ -9848,40 +9878,24 @@
 		(uuid "50490fdd-e69b-452b-b771-6dcaf8171b7e")
 	)
 	(no_connect
-		(at 124.46 187.96)
+		(at 124.46 177.165)
 		(uuid "657696cf-049e-4f4f-a1b3-b39c01bc8159")
 	)
 	(no_connect
-		(at 109.22 187.96)
-		(uuid "7ada6583-97d5-418d-a17e-7f9b1ddd0db2")
-	)
-	(no_connect
-		(at 124.46 172.72)
+		(at 124.46 161.925)
 		(uuid "7c813f6a-e851-4587-acd5-2e33a559b0aa")
 	)
 	(no_connect
-		(at 40.64 172.72)
-		(uuid "98db1beb-b61e-41a4-bfe3-1881d81380f2")
-	)
-	(no_connect
-		(at 76.2 172.72)
+		(at 76.2 161.925)
 		(uuid "a193ec6d-85f7-4529-9e86-570df1105cde")
 	)
 	(no_connect
-		(at 55.88 172.72)
-		(uuid "b21c47e1-a518-4c10-b8c6-adba3d07c573")
-	)
-	(no_connect
-		(at 104.14 187.96)
+		(at 104.14 177.165)
 		(uuid "b3ae5449-6435-4111-a4b0-d9b64923393a")
 	)
 	(no_connect
 		(at 132.08 38.1)
 		(uuid "bc2dd753-e7c1-46d6-ae18-181b58457140")
-	)
-	(no_connect
-		(at 40.64 187.96)
-		(uuid "ca1f4c08-531b-4fb3-bb08-b007bbdabe4d")
 	)
 	(no_connect
 		(at 229.87 142.24)
@@ -9892,24 +9906,22 @@
 		(uuid "d2727c7f-e2df-47f1-9ad5-eff7a24312ca")
 	)
 	(no_connect
-		(at 104.14 172.72)
+		(at 104.14 161.925)
 		(uuid "e5f102f0-6db8-4c96-9870-d2a876fd9023")
-	)
-	(no_connect
-		(at 109.22 172.72)
-		(uuid "f0f92b4f-32d8-4af4-8cb2-8481079560e5")
 	)
 	(no_connect
 		(at 128.27 121.92)
 		(uuid "f68ab5db-d3e1-4b37-8730-51c3fe3a5d8d")
 	)
-	(no_connect
-		(at 88.9 187.96)
-		(uuid "fc57f251-8f10-4457-a46c-2360984bfb06")
-	)
-	(no_connect
-		(at 60.96 187.96)
-		(uuid "fdb2de57-456d-4cc9-9be8-ea6cd34209c5")
+	(wire
+		(pts
+			(xy 73.66 135.255) (xy 73.66 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0204bb46-3e51-4e71-93b6-a3a00c2ff0ea")
 	)
 	(wire
 		(pts
@@ -9993,6 +10005,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 137.795) (xy 73.66 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1159a742-49e1-4f25-9d6f-5fe022601112")
+	)
+	(wire
+		(pts
 			(xy 158.75 45.72) (xy 163.83 45.72)
 		)
 		(stroke
@@ -10023,6 +10045,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 161.925) (xy 88.9 177.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29cb6267-de98-42e0-b1b2-ec3a997486dd")
+	)
+	(wire
+		(pts
 			(xy 96.52 73.66) (xy 96.52 92.71)
 		)
 		(stroke
@@ -10030,16 +10062,6 @@
 			(type default)
 		)
 		(uuid "2c4cd74d-0386-4fc9-8763-eb26efc6ca6a")
-	)
-	(wire
-		(pts
-			(xy 67.31 92.71) (xy 73.66 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2da3a078-e4d8-4fe0-ac63-1456e0ae7495")
 	)
 	(wire
 		(pts
@@ -10093,6 +10115,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.675 137.795) (xy 73.66 137.795)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3568c97a-7fb4-44ca-9f14-01bb2dff411b")
+	)
+	(wire
+		(pts
 			(xy 80.01 67.31) (xy 86.36 67.31)
 		)
 		(stroke
@@ -10113,6 +10145,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 191.135) (xy 88.9 191.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43280802-ebad-442f-80b9-4f3dd3854930")
+	)
+	(wire
+		(pts
 			(xy 203.2 45.72) (xy 203.2 53.34)
 		)
 		(stroke
@@ -10120,6 +10162,16 @@
 			(type default)
 		)
 		(uuid "436ca8ea-c808-4ad6-a507-0ea20ddfc5a8")
+	)
+	(wire
+		(pts
+			(xy 66.675 135.255) (xy 73.66 135.255)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44080d0a-0a82-4db6-837f-1be3a54b4e72")
 	)
 	(wire
 		(pts
@@ -10190,6 +10242,16 @@
 			(type default)
 		)
 		(uuid "4ef9ac1d-8cd4-445e-8203-c04976d005f8")
+	)
+	(wire
+		(pts
+			(xy 40.64 191.135) (xy 60.96 191.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fbefc99-df43-47c4-8a19-e806dc14fdfc")
 	)
 	(wire
 		(pts
@@ -10393,6 +10455,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 177.165) (xy 88.9 191.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e8aeee5-7023-4b5c-887e-c385ebfe7553")
+	)
+	(wire
+		(pts
 			(xy 189.23 45.72) (xy 189.23 53.34)
 		)
 		(stroke
@@ -10413,6 +10485,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 177.165) (xy 40.64 191.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94ee0f7f-488f-4ed2-a124-fae5542c4cb0")
+	)
+	(wire
+		(pts
 			(xy 132.08 120.65) (xy 144.78 120.65)
 		)
 		(stroke
@@ -10420,6 +10502,16 @@
 			(type default)
 		)
 		(uuid "9587939c-ca05-4fa7-8a44-928c69bf9790")
+	)
+	(wire
+		(pts
+			(xy 53.975 92.71) (xy 67.31 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99e5e0be-f35c-42f9-9af2-48d0d53f2a6b")
 	)
 	(wire
 		(pts
@@ -10433,13 +10525,33 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 92.71) (xy 67.31 107.95)
+			(xy 109.22 177.165) (xy 109.22 191.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a01c6513-3832-4d09-b78e-39d6c35fbbe5")
+	)
+	(wire
+		(pts
+			(xy 53.975 92.71) (xy 53.975 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a337ae6b-6e50-4b0f-8cae-79cfcaa0dfb7")
+	)
+	(wire
+		(pts
+			(xy 60.96 191.135) (xy 86.995 191.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3ff0d63-62c6-44f1-a588-b3e35d178d74")
 	)
 	(wire
 		(pts
@@ -10480,6 +10592,16 @@
 			(type default)
 		)
 		(uuid "b3cd4e16-040d-41c6-bf11-a390cdf4f641")
+	)
+	(wire
+		(pts
+			(xy 60.96 177.165) (xy 60.96 191.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6f89308-8a30-4bf8-8c22-0251cabc6bb6")
 	)
 	(wire
 		(pts
@@ -10573,6 +10695,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 161.925) (xy 109.22 177.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c30475a6-31e6-4122-b945-d2f5d3532e26")
+	)
+	(wire
+		(pts
 			(xy 218.44 144.78) (xy 229.87 144.78)
 		)
 		(stroke
@@ -10583,7 +10715,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 115.57) (xy 67.31 121.92)
+			(xy 53.975 114.3) (xy 53.975 120.65)
 		)
 		(stroke
 			(width 0)
@@ -10600,6 +10732,16 @@
 			(type default)
 		)
 		(uuid "c826f1aa-bdbe-4f17-99f7-dadcf42a20ca")
+	)
+	(wire
+		(pts
+			(xy 67.31 132.715) (xy 67.31 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c90c4d8d-3b5a-4c40-b38a-faf152d0d6a3")
 	)
 	(wire
 		(pts
@@ -10683,6 +10825,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.675 132.715) (xy 67.31 132.715)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dec79d89-0ab7-4990-a8cb-b37b41fc0f87")
+	)
+	(wire
+		(pts
 			(xy 144.78 92.71) (xy 137.16 92.71)
 		)
 		(stroke
@@ -10713,6 +10865,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 191.135) (xy 86.995 191.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e44ef970-cc32-4c91-93a1-4b3ff6ab2770")
+	)
+	(wire
+		(pts
 			(xy 125.73 45.72) (xy 130.81 45.72)
 		)
 		(stroke
@@ -10730,6 +10892,16 @@
 			(type default)
 		)
 		(uuid "e6838aa0-9e55-4c35-8f8f-4938c14ee973")
+	)
+	(wire
+		(pts
+			(xy 40.64 161.925) (xy 40.64 177.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9d48752-4513-4ea2-bf89-03bfec23c627")
 	)
 	(wire
 		(pts
@@ -10780,6 +10952,16 @@
 			(type default)
 		)
 		(uuid "f659a249-e2a8-4bfd-b881-1a12736f4660")
+	)
+	(wire
+		(pts
+			(xy 60.96 161.925) (xy 60.96 177.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6791fb5-00d8-4463-8f12-d47fba5be7a7")
 	)
 	(wire
 		(pts
@@ -10861,7 +11043,7 @@
 			(uuid "b553c8b5-779a-4334-a44a-fb1d9366cb38")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR021")
 					(unit 1)
@@ -10937,7 +11119,7 @@
 			)
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "H1")
 					(unit 1)
@@ -10947,7 +11129,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 67.31 121.92 0)
+		(at 53.975 120.65 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10958,7 +11140,7 @@
 		(fields_autoplaced yes)
 		(uuid "0e9cf13d-2dcc-483a-ac03-6cff2a62c55f")
 		(property "Reference" "#PWR01"
-			(at 67.31 128.27 0)
+			(at 53.975 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10969,7 +11151,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 67.31 127 0)
+			(at 53.975 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10979,7 +11161,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 67.31 121.92 0)
+			(at 53.975 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10990,7 +11172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 121.92 0)
+			(at 53.975 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11001,7 +11183,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 67.31 121.92 0)
+			(at 53.975 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11015,7 +11197,7 @@
 			(uuid "164edc75-8776-4cea-ad6d-8c58baaa3d9d")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR01")
 					(unit 1)
@@ -11025,7 +11207,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 67.31 111.76 0)
+		(at 53.975 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11036,7 +11218,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ef51b7d-17a4-4745-afab-e9f6d32fe9e2")
 		(property "Reference" "C14"
-			(at 71.12 109.6009 0)
+			(at 57.785 108.3309 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11047,7 +11229,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 71.12 112.1409 0)
+			(at 57.785 110.8709 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11058,7 +11240,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
-			(at 68.2752 115.57 0)
+			(at 54.9402 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11069,7 +11251,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 111.76 0)
+			(at 53.975 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11080,7 +11262,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 67.31 111.76 0)
+			(at 53.975 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11097,7 +11279,7 @@
 			(uuid "2664f7d0-437b-4e1b-b9db-a6b0dabdac87")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "C14")
 					(unit 1)
@@ -11216,7 +11398,7 @@
 			(uuid "6239ca37-afcf-4e93-b179-476803b67e7c")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U2")
 					(unit 1)
@@ -11294,7 +11476,7 @@
 			(uuid "20cce7fe-6cea-4780-8133-ab31127f8e78")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR015")
 					(unit 1)
@@ -11305,7 +11487,7 @@
 	(symbol
 		(lib_name "4069_6")
 		(lib_id "4xxx:4069")
-		(at 68.58 172.72 0)
+		(at 68.58 161.925 0)
 		(unit 5)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11315,7 +11497,7 @@
 		(dnp no)
 		(uuid "2c4c55ae-8887-4bc6-b6d4-19d4b5d8e981")
 		(property "Reference" "U3"
-			(at 67.056 165.862 0)
+			(at 67.056 155.067 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11326,7 +11508,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 67.056 168.402 0)
+			(at 67.056 157.607 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11337,7 +11519,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 68.58 172.72 0)
+			(at 68.58 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11348,7 +11530,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 68.58 172.72 0)
+			(at 68.58 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11359,7 +11541,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 68.58 172.72 0)
+			(at 68.58 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11412,7 +11594,7 @@
 			(uuid "b764c336-f6fb-4d31-9907-5e2e599022b2")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U3")
 					(unit 5)
@@ -11490,7 +11672,7 @@
 			(uuid "993dba63-8fd6-4cf0-93b4-a721dff37fb6")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR016")
 					(unit 1)
@@ -11609,7 +11791,7 @@
 			(uuid "6239ca37-afcf-4e93-b179-476803b67e7d")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U2")
 					(unit 2)
@@ -11619,7 +11801,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:40106")
-		(at 96.52 187.96 0)
+		(at 96.52 177.165 0)
 		(unit 4)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11629,7 +11811,7 @@
 		(dnp no)
 		(uuid "3c23c841-23fe-40b6-a61e-7d34c2b06e10")
 		(property "Reference" "U2"
-			(at 95.504 180.848 0)
+			(at 95.504 170.053 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11640,7 +11822,7 @@
 			)
 		)
 		(property "Value" "40106"
-			(at 95.504 183.388 0)
+			(at 95.504 172.593 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11651,7 +11833,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 96.52 187.96 0)
+			(at 96.52 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11662,7 +11844,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
-			(at 96.52 187.96 0)
+			(at 96.52 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11673,7 +11855,7 @@
 			)
 		)
 		(property "Description" "Hex Schmitt trigger inverter"
-			(at 96.52 187.96 0)
+			(at 96.52 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11726,7 +11908,7 @@
 			(uuid "6239ca37-afcf-4e93-b179-476803b67e7e")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U2")
 					(unit 4)
@@ -11808,7 +11990,7 @@
 			(uuid "7fc9c752-5a5a-4349-b308-b852c412f963")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "SW3")
 					(unit 1)
@@ -11886,7 +12068,7 @@
 			(uuid "1d276e1b-1338-4d53-b392-3cd7736bca6a")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR014")
 					(unit 1)
@@ -11964,7 +12146,7 @@
 			(uuid "d8c2a74d-b167-4c63-9c5b-13bbeb193475")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR023")
 					(unit 1)
@@ -12042,7 +12224,7 @@
 			(uuid "bcd5f9f5-8a82-4ff3-8f19-649d80bdcc10")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR022")
 					(unit 1)
@@ -12122,7 +12304,7 @@
 			(uuid "9b64ff80-a922-4506-8e81-83126523b463")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "C3")
 					(unit 1)
@@ -12202,7 +12384,7 @@
 			(uuid "664a46e0-8453-47a1-abfd-93d5f8696e3c")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "R1")
 					(unit 1)
@@ -12286,7 +12468,7 @@
 			(uuid "4835aef8-1310-4a9a-a265-21b58bc286a4")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U8")
 					(unit 1)
@@ -12367,7 +12549,7 @@
 			(uuid "dbc47c57-f1e4-41d2-acce-c2ce86a77390")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "C10")
 					(unit 1)
@@ -12486,7 +12668,7 @@
 			(uuid "6239ca37-afcf-4e93-b179-476803b67e7f")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U2")
 					(unit 7)
@@ -12605,7 +12787,7 @@
 			(uuid "b764c336-f6fb-4d31-9907-5e2e599022b3")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U3")
 					(unit 7)
@@ -12687,7 +12869,7 @@
 			(uuid "171049c1-2e72-4774-8330-5f471c1fdfe5")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "J4")
 					(unit 1)
@@ -12765,7 +12947,7 @@
 			(uuid "93d8d2d9-3086-4c26-b18c-be89ef23de63")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR018")
 					(unit 1)
@@ -12845,7 +13027,7 @@
 			(uuid "99b022f0-252b-49ab-b15e-55383686f249")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "C2")
 					(unit 1)
@@ -12927,7 +13109,7 @@
 			(uuid "534eeee8-2b2f-4d2e-a6a9-eac86a29f368")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "C12")
 					(unit 1)
@@ -13007,7 +13189,7 @@
 			(uuid "435cc32e-63c0-4605-bf35-60fcb7aed489")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "C4")
 					(unit 1)
@@ -13090,7 +13272,7 @@
 			(uuid "a9bdba03-9e95-4bbd-8019-98e45b786b9e")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "J3")
 					(unit 1)
@@ -13101,7 +13283,7 @@
 	(symbol
 		(lib_name "4069_4")
 		(lib_id "4xxx:4069")
-		(at 48.26 172.72 0)
+		(at 48.26 161.925 0)
 		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13111,7 +13293,7 @@
 		(dnp no)
 		(uuid "7c8aff85-ef04-41a3-889b-d0a82570c8a7")
 		(property "Reference" "U3"
-			(at 46.228 165.862 0)
+			(at 46.228 155.067 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13122,7 +13304,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 46.228 168.402 0)
+			(at 46.228 157.607 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13133,7 +13315,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 48.26 172.72 0)
+			(at 48.26 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13144,7 +13326,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 48.26 172.72 0)
+			(at 48.26 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13155,7 +13337,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 48.26 172.72 0)
+			(at 48.26 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13208,7 +13390,7 @@
 			(uuid "b764c336-f6fb-4d31-9907-5e2e599022b4")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U3")
 					(unit 3)
@@ -13324,7 +13506,7 @@
 			(uuid "cb573017-89c7-40cf-bcab-c59110454bf9")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "RV3")
 					(unit 1)
@@ -13405,7 +13587,7 @@
 			(uuid "f0db9474-2434-4201-b2e5-6eda6fa5397e")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "C11")
 					(unit 1)
@@ -13483,7 +13665,7 @@
 			(uuid "156ffab3-5284-412e-8499-4a1e3c912792")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR020")
 					(unit 1)
@@ -13564,7 +13746,7 @@
 			(uuid "23ea4e27-7d05-4b6b-ba7d-d29680f4fe4e")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "R4")
 					(unit 1)
@@ -13640,7 +13822,7 @@
 			)
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "H4")
 					(unit 1)
@@ -13722,7 +13904,7 @@
 			(uuid "efa5b33e-65c0-4eb2-9293-82270482f346")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "C9")
 					(unit 1)
@@ -13732,7 +13914,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4069")
-		(at 68.58 187.96 0)
+		(at 68.58 177.165 0)
 		(unit 6)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13742,7 +13924,7 @@
 		(dnp no)
 		(uuid "a01e79b2-834e-478b-9742-8858b50727ea")
 		(property "Reference" "U3"
-			(at 67.564 181.356 0)
+			(at 67.564 170.561 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13753,7 +13935,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 67.564 183.896 0)
+			(at 67.564 173.101 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13764,7 +13946,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 68.58 187.96 0)
+			(at 68.58 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13775,7 +13957,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 68.58 187.96 0)
+			(at 68.58 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13786,7 +13968,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 68.58 187.96 0)
+			(at 68.58 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13839,7 +14021,7 @@
 			(uuid "b764c336-f6fb-4d31-9907-5e2e599022b5")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U3")
 					(unit 6)
@@ -13917,7 +14099,7 @@
 			(uuid "89e2f539-78e8-4e36-8fe0-8190cc8d2cd9")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR017")
 					(unit 1)
@@ -13997,7 +14179,7 @@
 			(uuid "eb735bb6-9c04-4d1a-ab81-0472b75994b6")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "C6")
 					(unit 1)
@@ -14116,7 +14298,7 @@
 			(uuid "b764c336-f6fb-4d31-9907-5e2e599022b6")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U3")
 					(unit 2)
@@ -14192,7 +14374,7 @@
 			)
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "H3")
 					(unit 1)
@@ -14308,7 +14490,7 @@
 			(uuid "02124cf0-8a43-40b4-9533-bb3ff839093c")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "RV1")
 					(unit 1)
@@ -14386,7 +14568,7 @@
 			(uuid "6f8d059c-5855-42fa-b15c-aea05978e745")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR019")
 					(unit 1)
@@ -14397,7 +14579,7 @@
 	(symbol
 		(lib_name "40106_6")
 		(lib_id "4xxx:40106")
-		(at 96.52 172.72 0)
+		(at 96.52 161.925 0)
 		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14407,7 +14589,7 @@
 		(dnp no)
 		(uuid "bf856bf0-f227-4ec1-8394-4e8ec69826a1")
 		(property "Reference" "U2"
-			(at 95.25 165.862 0)
+			(at 95.25 155.067 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14418,7 +14600,7 @@
 			)
 		)
 		(property "Value" "40106"
-			(at 95.25 168.402 0)
+			(at 95.25 157.607 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14429,7 +14611,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 96.52 172.72 0)
+			(at 96.52 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14440,7 +14622,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
-			(at 96.52 172.72 0)
+			(at 96.52 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14451,7 +14633,7 @@
 			)
 		)
 		(property "Description" "Hex Schmitt trigger inverter"
-			(at 96.52 172.72 0)
+			(at 96.52 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14504,7 +14686,7 @@
 			(uuid "6239ca37-afcf-4e93-b179-476803b67e80")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U2")
 					(unit 3)
@@ -14515,7 +14697,7 @@
 	(symbol
 		(lib_name "4069_5")
 		(lib_id "4xxx:4069")
-		(at 48.26 187.96 0)
+		(at 48.26 177.165 0)
 		(unit 4)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14525,7 +14707,7 @@
 		(dnp no)
 		(uuid "c0a17e03-3942-49a2-978c-ccc55b45b3fa")
 		(property "Reference" "U3"
-			(at 50.292 182.88 0)
+			(at 50.292 172.085 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14536,7 +14718,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 50.292 180.34 0)
+			(at 50.292 169.545 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14547,7 +14729,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 48.26 187.96 0)
+			(at 48.26 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14558,7 +14740,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 48.26 187.96 0)
+			(at 48.26 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14569,7 +14751,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 48.26 187.96 0)
+			(at 48.26 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14622,7 +14804,7 @@
 			(uuid "b764c336-f6fb-4d31-9907-5e2e599022b7")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U3")
 					(unit 4)
@@ -14699,7 +14881,7 @@
 			(uuid "34ac528b-901b-46c7-baa4-1776da2084f6")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR03")
 					(unit 1)
@@ -14777,7 +14959,7 @@
 			(uuid "30522e10-03aa-4b75-9029-1a51509b277c")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR02")
 					(unit 1)
@@ -14857,7 +15039,7 @@
 			(uuid "bfb9a692-1cc0-40aa-9d72-9626c03e1f54")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "R2")
 					(unit 1)
@@ -14868,7 +15050,7 @@
 	(symbol
 		(lib_name "40106_5")
 		(lib_id "4xxx:40106")
-		(at 116.84 172.72 0)
+		(at 116.84 161.925 0)
 		(unit 5)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14878,7 +15060,7 @@
 		(dnp no)
 		(uuid "e15dfc15-2df4-4715-97e6-466022d62236")
 		(property "Reference" "U2"
-			(at 115.57 166.116 0)
+			(at 115.57 155.321 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14889,7 +15071,7 @@
 			)
 		)
 		(property "Value" "40106"
-			(at 115.57 168.656 0)
+			(at 115.57 157.861 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14900,7 +15082,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 116.84 172.72 0)
+			(at 116.84 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14911,7 +15093,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
-			(at 116.84 172.72 0)
+			(at 116.84 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14922,7 +15104,7 @@
 			)
 		)
 		(property "Description" "Hex Schmitt trigger inverter"
-			(at 116.84 172.72 0)
+			(at 116.84 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14975,7 +15157,7 @@
 			(uuid "6239ca37-afcf-4e93-b179-476803b67e81")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U2")
 					(unit 5)
@@ -15094,7 +15276,7 @@
 			(uuid "b764c336-f6fb-4d31-9907-5e2e599022b8")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U3")
 					(unit 1)
@@ -15105,7 +15287,7 @@
 	(symbol
 		(lib_name "40106_4")
 		(lib_id "4xxx:40106")
-		(at 116.84 187.96 0)
+		(at 116.84 177.165 0)
 		(unit 6)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15115,7 +15297,7 @@
 		(dnp no)
 		(uuid "e8a5aaaf-988f-4fbb-83eb-54be0c63344d")
 		(property "Reference" "U2"
-			(at 115.316 181.356 0)
+			(at 115.316 170.561 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15126,7 +15308,7 @@
 			)
 		)
 		(property "Value" "40106"
-			(at 115.316 183.896 0)
+			(at 115.316 173.101 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15137,7 +15319,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 116.84 187.96 0)
+			(at 116.84 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15148,7 +15330,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
-			(at 116.84 187.96 0)
+			(at 116.84 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15159,7 +15341,7 @@
 			)
 		)
 		(property "Description" "Hex Schmitt trigger inverter"
-			(at 116.84 187.96 0)
+			(at 116.84 177.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15212,10 +15394,88 @@
 			(uuid "6239ca37-afcf-4e93-b179-476803b67e82")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "U2")
 					(unit 6)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 86.995 191.135 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e91310a3-f268-45ae-92ec-a2b5e7a925c6")
+		(property "Reference" "#PWR06"
+			(at 86.995 197.485 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 86.995 196.215 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.995 191.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.995 191.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 86.995 191.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3da082a9-e000-4773-82d7-c9f2fa8df808")
+		)
+		(instances
+			(project "g-06-perc-01-rev-a"
+				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
+					(reference "#PWR06")
+					(unit 1)
 				)
 			)
 		)
@@ -15290,7 +15550,7 @@
 			(uuid "adfb5ef8-3621-4801-9613-12029d85d229")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "#PWR04")
 					(unit 1)
@@ -15366,7 +15626,7 @@
 			)
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "H2")
 					(unit 1)
@@ -15467,7 +15727,7 @@
 			(uuid "cc3211bd-7865-41b2-8690-bc23c71dc358")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "D1")
 					(unit 1)
@@ -15549,7 +15809,7 @@
 			(uuid "add90221-8c6a-4616-b952-8203479c4ab9")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "J2")
 					(unit 1)
@@ -15667,7 +15927,7 @@
 			(uuid "beb83f25-faca-4730-97bb-8adbab1ae74d")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "RV2")
 					(unit 1)
@@ -15759,9 +16019,170 @@
 			(uuid "5506b419-08c2-47c3-bb56-d0b21534f501")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 73.66 146.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6a2bb5a-38d3-48a6-8c86-3da5d4e70ab7")
+		(property "Reference" "#PWR05"
+			(at 73.66 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 73.66 151.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f1ad2046-c104-4d50-be4f-e331da31cce5")
+		)
+		(instances
+			(project "g-06-perc-01-rev-a"
+				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Audio:AudioJack2_SwitchT")
+		(at 61.595 135.255 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fcaa6b69-7839-4b60-b682-b21449cb5f78")
+		(property "Reference" "J5"
+			(at 60.96 144.145 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AudioJack2_SwitchT"
+			(at 60.96 141.605 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "dis8644:PJ301M-12"
+			(at 61.595 126.365 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 61.595 135.255 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"
+			(at 61.595 135.255 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "1526d331-143b-4b9c-9ae2-fd52a927dc1a")
+		)
+		(pin "1"
+			(uuid "bda2e886-d507-4060-91e5-5042aba05da7")
+		)
+		(pin "2"
+			(uuid "515bd171-f0ec-466e-8c60-4681169625a4")
+		)
+		(instances
+			(project "g-06-perc-01-rev-a"
+				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -15875,7 +16296,7 @@
 			(uuid "402ca3db-d74c-4dac-a0b0-0e7fd7962a44")
 		)
 		(instances
-			(project "percusion-01-v05"
+			(project "g-06-perc-01-rev-a"
 				(path "/15eaeb27-aa21-4f97-8159-18c749fa06b7"
 					(reference "RV5")
 					(unit 1)
