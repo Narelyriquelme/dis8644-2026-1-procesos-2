@@ -49,8 +49,11 @@ en pcb:
 en esquemático:
 
 - agregamos también resistores de protección en entradas y salidas.
+- agregados mounting hole faltantes
 
 en pcb:
+
+- actualizamos conectores jack a la huella de la biblioteca, para poder rutear bien los nuevos resistores y no perdernos.
 
 ## grupo-03: osciladores 1
 
