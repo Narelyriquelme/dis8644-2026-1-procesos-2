@@ -371,183 +371,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:C_Polarized"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "C"
-				(at 0.635 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C_Polarized"
-				(at 0.635 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Polarized capacitor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "cap capacitor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "CP_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "C_Polarized_0_1"
-				(rectangle
-					(start -2.286 0.508)
-					(end 2.286 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 2.286) (xy -0.762 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 2.794) (xy -1.27 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.286 -0.508)
-					(end -2.286 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "C_Polarized_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -1017,6 +840,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "basado en \nhttps://www.homemade-circuits.com/simple-tone-control-circuits/"
+		(exclude_from_sim no)
+		(at 154.305 140.335 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "56f5bd49-dd07-444d-bd9d-38d71e5cc134")
+	)
 	(text "INPUTS/OUTPUTS"
 		(exclude_from_sim no)
 		(at 246.38 96.012 0)
@@ -1032,12 +865,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "08ebcdcf-f56d-4a29-ad66-05693f87d5ef")
-	)
-	(junction
-		(at 109.22 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0b5fe4e2-65f3-447c-803c-f660959b54d7")
 	)
 	(junction
 		(at 139.7 88.9)
@@ -1058,28 +885,16 @@
 		(uuid "43bf87e6-ddf2-4ba6-9e95-aa156c6ec033")
 	)
 	(junction
-		(at 170.18 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4470eacb-9a9f-4ee5-bba2-7cf923d951b1")
-	)
-	(junction
 		(at 223.52 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c90af49-2eb9-4449-9357-c632abe49825")
 	)
 	(junction
-		(at 109.22 77.47)
+		(at 109.22 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "72c7544b-095f-42cf-9d9e-c2a19e3bf9cf")
-	)
-	(junction
-		(at 199.39 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "772a5b32-4efa-4a39-be7f-9395196ee221")
+		(uuid "5a93e996-0f52-4811-a57a-b60214f8a6da")
 	)
 	(junction
 		(at 199.39 129.54)
@@ -1088,10 +903,10 @@
 		(uuid "8b73996e-f901-4d5b-a648-c6452c0b1898")
 	)
 	(junction
-		(at 199.39 99.06)
+		(at 109.22 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "de64114a-1d95-4ff9-98f6-dae8fe0e66b9")
+		(uuid "9fd2c7e4-3f31-4b9d-9c31-26a202bf4cd9")
 	)
 	(junction
 		(at 170.18 88.9)
@@ -1109,17 +924,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 99.06) (xy 199.39 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "008716e3-ab6d-4e10-b12e-a0806d5a3523")
-	)
-	(wire
-		(pts
-			(xy 199.39 92.71) (xy 199.39 99.06)
+			(xy 199.39 92.71) (xy 199.39 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1139,6 +944,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 77.47) (xy 139.7 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "099c254d-c938-44bc-ba07-209fe3b6662a")
+	)
+	(wire
+		(pts
 			(xy 109.22 102.87) (xy 109.22 110.49)
 		)
 		(stroke
@@ -1149,33 +964,13 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 69.85) (xy 199.39 73.66)
+			(xy 199.39 69.85) (xy 199.39 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0c7d36c5-b8ec-41fa-bbc9-2285bbb39709")
-	)
-	(wire
-		(pts
-			(xy 170.18 73.66) (xy 170.18 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14c94765-3cbb-42af-89eb-7a6a81c43987")
-	)
-	(wire
-		(pts
-			(xy 170.18 88.9) (xy 170.18 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18322663-3816-4512-8856-92080d56e463")
 	)
 	(wire
 		(pts
@@ -1199,17 +994,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 99.06) (xy 170.18 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ef2f148-612a-49a2-90ec-7f70e73aad55")
-	)
-	(wire
-		(pts
-			(xy 109.22 91.44) (xy 109.22 102.87)
+			(xy 109.22 92.71) (xy 109.22 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1226,16 +1011,6 @@
 			(type default)
 		)
 		(uuid "2132a59a-68be-4830-a51a-e164d6dcad7a")
-	)
-	(wire
-		(pts
-			(xy 199.39 99.06) (xy 199.39 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "271ccca4-ea37-4bc1-a32a-864cf1181edf")
 	)
 	(wire
 		(pts
@@ -1309,16 +1084,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 77.47) (xy 139.7 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "497b3394-239a-47a7-813a-dde4983a2ea3")
-	)
-	(wire
-		(pts
 			(xy 109.22 50.8) (xy 97.79 50.8)
 		)
 		(stroke
@@ -1329,13 +1094,13 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 73.66) (xy 176.53 73.66)
+			(xy 113.03 88.9) (xy 139.7 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "728a2245-6b53-4cfe-9e98-9feae2e9cfe6")
+		(uuid "6a11bbf7-96c4-4435-b19e-276cc2a3139b")
 	)
 	(wire
 		(pts
@@ -1379,16 +1144,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 73.66) (xy 199.39 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f530999-a931-4b9f-878d-42b4a61b595b")
-	)
-	(wire
-		(pts
 			(xy 55.88 92.71) (xy 73.66 92.71)
 		)
 		(stroke
@@ -1429,7 +1184,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 77.47) (xy 109.22 83.82)
+			(xy 109.22 77.47) (xy 109.22 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1479,6 +1234,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 88.9) (xy 195.58 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9740cc6-d025-4a9a-a703-a52a0d8cd5a4")
+	)
+	(wire
+		(pts
 			(xy 170.18 77.47) (xy 170.18 88.9)
 		)
 		(stroke
@@ -1486,16 +1251,6 @@
 			(type default)
 		)
 		(uuid "d0546154-858c-4b52-9044-594ae24d1202")
-	)
-	(wire
-		(pts
-			(xy 199.39 73.66) (xy 199.39 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d63fca07-336c-4103-8da9-baec52fc56c2")
 	)
 	(wire
 		(pts
@@ -1559,7 +1314,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 109.22 87.63 0)
+		(at 109.22 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1570,7 +1325,7 @@
 		(fields_autoplaced yes)
 		(uuid "0bf8d3dd-6388-4410-a314-83f8026b98ed")
 		(property "Reference" "RV1"
-			(at 106.68 86.3599 0)
+			(at 106.68 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1581,7 +1336,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 106.68 88.8999 0)
+			(at 106.68 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1592,7 +1347,7 @@
 			)
 		)
 		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical"
-			(at 109.22 87.63 0)
+			(at 109.22 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1603,7 +1358,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 87.63 0)
+			(at 109.22 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1614,7 +1369,7 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
-			(at 109.22 87.63 0)
+			(at 109.22 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1625,7 +1380,7 @@
 			)
 		)
 		(property "Sim.Device" "R"
-			(at 109.22 87.63 0)
+			(at 109.22 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1636,7 +1391,7 @@
 			)
 		)
 		(property "Sim.Type" "POT"
-			(at 109.22 87.63 0)
+			(at 109.22 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1647,7 +1402,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
-			(at 109.22 87.63 0)
+			(at 109.22 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1667,7 +1422,7 @@
 			(uuid "aa8d86c6-dd9b-4ada-888d-dcd0faafdea3")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
 					(reference "RV1")
 					(unit 1)
@@ -1687,7 +1442,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ae3b027-cb16-459a-ac3c-a758c3410604")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR02"
 			(at 242.57 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -1745,89 +1500,9 @@
 			(uuid "1e708f1c-257e-4182-904d-36f707eee4d5")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
-					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 180.34 73.66 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "24856308-ed65-45ae-a938-c7bc0950e916")
-		(property "Reference" "R4"
-			(at 180.34 67.31 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 180.34 69.85 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 180.34 75.438 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 180.34 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 180.34 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "04c7bbaa-1049-4b37-a691-8ec4e2372fed")
-		)
-		(pin "2"
-			(uuid "79c6bead-8556-439d-95c5-56680935ba83")
-		)
-		(instances
-			(project "Filtro-01-v3"
-				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
-					(reference "R4")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -1907,7 +1582,7 @@
 			(uuid "fc43c004-435a-423d-b496-f7d169354bbe")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
 					(reference "R1")
 					(unit 1)
@@ -1918,6 +1593,7 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
 		(at 199.39 88.9 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1925,10 +1601,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "32f95d06-ef3e-4acf-805c-42d82e94ba51")
 		(property "Reference" "RV2"
-			(at 196.85 87.6299 0)
+			(at 201.93 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1939,7 +1614,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 196.85 90.1699 0)
+			(at 201.93 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2025,89 +1700,9 @@
 			(uuid "77a74d57-6414-4df0-a0e0-c8432400e0a0")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
 					(reference "RV2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 180.34 99.06 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3d72afda-7b92-4c08-9b43-a5a683d7ebc0")
-		(property "Reference" "R5"
-			(at 180.34 92.71 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 180.34 95.25 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
-			(at 180.34 100.838 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 180.34 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 180.34 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9850ded5-2056-4320-b38c-c6eef8a50297")
-		)
-		(pin "2"
-			(uuid "839c04a0-a355-48e5-8a4b-21dc81d30cd7")
-		)
-		(instances
-			(project "Filtro-01-v3"
-				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
-					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -2124,7 +1719,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a0b3452-03a3-42fa-89a3-c0e1c2c893ec")
-		(property "Reference" "J5"
+		(property "Reference" "J1"
 			(at 55.626 73.152 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2187,9 +1782,9 @@
 			(uuid "46d369fb-a363-4493-9b48-ab8eba0288cc")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
-					(reference "J5")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -2267,7 +1862,7 @@
 			(uuid "a76afad4-c2fb-4c3a-97a1-a13d05de9e3b")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
 					(reference "C3")
 					(unit 1)
@@ -2298,7 +1893,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "153n"
+		(property "Value" "15n"
 			(at 203.2 67.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2349,9 +1944,89 @@
 			(uuid "2641c13c-242f-4db5-a07d-2a696e0ceb88")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 93.98 50.8 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70c46f51-8862-490c-b0c7-c23885172aee")
+		(property "Reference" "C1"
+			(at 93.98 43.18 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1u"
+			(at 93.98 45.72 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D10.5mm_W5.0mm_P7.50mm"
+			(at 97.79 49.8348 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 93.98 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5f95853a-873b-4af0-9693-21de46d486b4")
+		)
+		(pin "2"
+			(uuid "f5ca1cff-6258-43a9-ae1c-a7bde8934c8b")
+		)
+		(instances
+			(project "g-05-filt-01-rev-a"
+				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -2380,7 +2055,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "154n"
+		(property "Value" "150n"
 			(at 203.2 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2431,7 +2106,7 @@
 			(uuid "5219e429-f5aa-40c9-95e5-aa660dc3e5d0")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
 					(reference "C5")
 					(unit 1)
@@ -2513,7 +2188,7 @@
 			(uuid "81579588-91b3-4049-8cbd-4c2e5ddb56aa")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
 					(reference "R2")
 					(unit 1)
@@ -2593,7 +2268,7 @@
 			(uuid "9c1f36ee-43de-4f5f-a32e-7e739ec55d5f")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
 					(reference "R3")
 					(unit 1)
@@ -2612,7 +2287,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c7749a4a-ba40-4f33-a374-6451d3e0bb47")
-		(property "Reference" "J4"
+		(property "Reference" "J2"
 			(at 248.285 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2675,9 +2350,9 @@
 			(uuid "f2c7d373-3173-4d7d-b0b8-639f408a6e5a")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
-					(reference "J4")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -2755,7 +2430,7 @@
 			(uuid "d11023c1-463d-4151-889a-3fdbad7ca81f")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
 					(reference "C2")
 					(unit 1)
@@ -2775,7 +2450,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9c0560f-4e4c-4e2a-87ae-a6ad5f437b7a")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR01"
 			(at 58.42 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2833,89 +2508,9 @@
 			(uuid "5f1260b1-9308-4c9e-819f-2d704cc789c7")
 		)
 		(instances
-			(project "Filtro-01-v3"
+			(project "g-05-filt-01-rev-a"
 				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
-					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 93.98 50.8 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f63a1c1c-9b6e-4365-9c47-edd83904c5bb")
-		(property "Reference" "C1"
-			(at 94.869 43.18 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1uf"
-			(at 94.869 45.72 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
-			(at 90.17 51.7652 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 93.98 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "757111c0-bca7-458c-b987-345cfac6dfea")
-		)
-		(pin "2"
-			(uuid "92c3b4ce-57a9-47ac-aef4-d57449a6c2c3")
-		)
-		(instances
-			(project "Filtro-01-v3"
-				(path "/77f73c9b-adfb-416a-a19c-13d436b78928"
-					(reference "C1")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
