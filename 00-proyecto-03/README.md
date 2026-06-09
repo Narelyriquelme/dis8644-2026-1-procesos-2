@@ -1,1 +1,13 @@
 # proyecto-03
+
+3 puntos grupales:
+
+- lista de materiales (bom), incluyendo cantidades, placa, presupuesto, stock
+- ensamblaje de 3 PCBs de las que hayan participado en su diseño
+- propuesta de 2 partituras para performance de 5 minutos con el sintetizador diseño
+
+3 puntos individuales:
+
+- bitácora de trabajo de junio
+- bitácora de lectura de libro junio
+- presentación oral
