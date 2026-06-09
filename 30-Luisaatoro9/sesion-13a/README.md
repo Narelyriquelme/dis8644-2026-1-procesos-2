@@ -110,3 +110,15 @@ Entramos al tema de cómo "vestir" el proyecto para que no parezca solo un exper
 Vimos referentes de carcasas (Macumbista, Corazón Robota, Victor Mazón) y opciones de montaje como las Hammond Boxes de Katode o el uso de separadores y pernos M3. El enfoque es la experiencia de usuario y ser capaces de justificar cada decisión de diseño ante la comisión.
 
 El examen vale un 50% de la nota final, los profes en esta situación son nuestros abogados en caso de que algo no se entienda al momento de que expliquemos el trabajo. 
+
+* Hicieron una votación sobre si manteniamos los grupos y ganó el que sí, luego nos explicaron las intrucciones del examen.
+
+* Si o si, soldar 3 placas. 
+* lista de materiales
+* Propuesta de 2 partituras para performance de 5 minutos con el sintetizador diseñado
+
+**FORO llllllll.cl** hablan sobre los sintetizadores que nos puede ayudar.
+**PODEMOS AGREGAR LDR EN VEZ DE POTENCIOMETROS PAR OBTENER MEJOR SONIDO**
+
+**PROXIMO MARTES TENDREMOS LAS PCBS EN MANOS**
+**EXAMEN 07-06/10 QUEDA UN MES**
