@@ -9,3 +9,4 @@ Una vez funcionando, sentimos que el sonido no era el esperado, por lo que le pe
 
 Sin embargo, la otra alternativa que estábamos evaluando no nos convenció del todo, ya que la variación del sonido era bastante reducida. Por esta razón seguimos investigando y encontramos una nueva opción que nos pareció interesante. No alcanzamos a probarla completamente porque no contábamos con más potenciómetros disponibles, pero esperamos poder revisarla y desarrollarla en la próxima sesión.
 
+![imagenes](./imagenes/circuito.jpg)
