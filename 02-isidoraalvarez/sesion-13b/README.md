@@ -59,6 +59,9 @@ ver posibilidad de no usar cables y usar estos imanes que haras de conexión de 
 - Para inspiraciones
   - https://loliel.narod.ru/DIY.pdf
 - llegar con los dos secuenciadores y el piezo soldado para el viernes 19
-- 
+
+## **TEXTO YOKO ONO**
+
+
 
 
