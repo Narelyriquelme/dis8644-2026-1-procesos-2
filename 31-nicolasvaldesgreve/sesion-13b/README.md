@@ -26,4 +26,4 @@ Maincra referencia :exclamation: :exclamation:
 
 ![Closet piece](./imagenes/closet-piece.png)
 
-Esto me dejó pensando en cuando las personas salimos de una relación ya sea amistosa o amorosa que era horrible por "x" razones, y luego de poner un fin al lazo que teníamos con esa persona la empezamos a extrañar, lo cual en su mayoría sucede debido a que olvidamos todo lo que sucedió y la razón por la que salimos de ahí y solo extrañamos la idea de esa relación y persona, no la relación y persona en sí!! literalmente eliminamos toda memoria de eso y extrañamos lo que nunca fue
+Esto me dejó pensando en cuando las personas salimos de una relación ya sea amistosa o amorosa que era horrible por "x" razones, y luego de poner un fin al lazo que teníamos con esa persona la empezamos a extrañar, lo cual en su mayoría sucede debido a que olvidamos todo lo que sucedió y la razón por la que salimos de ahí y solo extrañamos la idea de esa relación y persona, no la relación y persona en sí!! literalmente eliminamos toda memoria de eso y extrañamos lo que nunca fue.
