@@ -151,35 +151,62 @@ Pomelo. Un libro de instrucciones de Yoko Ono.
 
 ![pomelo](./imagenes/pomelo.png) 
 
-### Desarrollo del libro (general)
-
-Primera impresión del libro. Me gustó muchísimo más de lo que esperaba (lo juzgué antes de tiempo, pido perdón).  
-
-Si bien se menciona antes, el libro está lleno de pequeñas instrucciones (que como extra sirven de ejemplo de partitura en relación a lo que estamos realizando ahora en el proyecto 03) que son como ideas (supongo) de lo que se debería realizar desde una perspectiva poética e imaginativa (considerando que hay cosas que no son tan realizables en la realidad, pero sí en la imaginación).
-
-Leí por ahí que el lector deja de ser un receptor pasivo y pasa a convertirse en intérprete y creador, y me gusta mucho el concepto de ser parte de la obra, tanto como si realmente se hiciese en algún momento la interpretación de la instrucción, así solo sea algo que se imagina (en mi caso puedo imaginarme perfectamente todas las instrucciones; creo que por eso me gustó tanto, me sentí parte de lo leído). 
-
-Diría que la obra puede existir únicamente en la imaginación de quien lee. 
-
-Muchas propuestas dirigen la atención hacia acciones cotidianas o fenómenos naturales que normalmente ignoramos o no vemos desde una perspectiva más artística.
-
-Si bien cada capítulo tiene nombre de un tipo de arte o algo relacionado a eso (música, pintura, eventos, poesía, objetos), las instrucciones no necesariamente tienen que ver con lo que convencionalmente uno relacionaría a estos; es decir, en las instrucciones de música no es que alguien necesite saber tocar un instrumento, en pintura no es que alguien tenga que saber pintar; las instrucciones son más abstractas o metafóricas, no implican directamente utilizar como tal elementos relacionados con la categoría. 
-
-Muchas veces se siente que el proceso creativo o del desarrollo de la instrucción es más relevante que el resultado final.
-
-Me gustaría tener el libro en físico. 
-
 ### Capítulo 1: Música
 
-- El sonido puede ser real, imaginado o incluso inexistente.
+El sonido puede ser real, imaginado o incluso inexistente.
 
 Mis favoritos: 
 
-Algo que definitivamente realizaría: 
+- Pieza de risa. (Pasarse una semana riendo)
+- Pieza de piedra. (Grabar el sonido de una piedra envejeciendo)
+- Pieza de colección. (Coleccionar en la mente los sonidos que / se han escuchado casualmente en la semana. / Repetirlos mentalmente en distinto oden / una tarde.)
+- Pieza de eco télefonico. (Conseguir un teléfono que sólo dé el eco de la propia voz. / Llamar todos los días y hablar de muchas cosas.)
+- Pieza de amanecer. (Tomar la primera palabra que se pasa por la mente. Repetirla hasta el amanecer.)
+- Pieza de agua. (Regar)
+- Pieza de viento. (Hacer volar los sombreros de la gente por toda la ciudad.)
+
+El que de solo pensarlo lo odio: 
+
+- Pieza de ronquido. (Escuchar roncar a un grupo de gente. / Escuchar hasta el amanecer.)
+
+Muy el trabajo que estamos desarrollando: 
+
+- Pieza de ritmo. (Escuchar el latido de un corazón)
 
 ### Capítulo 2: Pintura 
 
 Mis favoritos: 
 
-Algo que definitivamente realizaría: 
+- Pintura para ver los cielos. (Taladrar dos agujeros en un lienzo. / Colgarlo donde pueda verse el cielo. / (cambiarlo de lugar: / probar las ventanas del frente / y las de atrás, para ver si los cielos / son diferentes.)
+- Pintura para el viento. (Hacer un agujero en una bolsa llena de semillas / de cualquier clase y poner la bolsa / al viento.)
+- Pieza de sombra. (Poner las sombras juntas hasta / que se convierta en una.)
+- Pintura que solo existe cuando es copiada o fotografiada. (Hacer que la gente copie o fotografíe / los cuadros de uno. / Destruir los originales.)
+- Pintura de tiempo. (Hacer una pintura en que el color / aparezca sólo bajo cierta luz / y ciertos momentos del día. / Hacer que el momento sea muy corto.)
+- Pintura para ser dormida. (Colgarla después de dormir sobre ella más de 100 noches.)
+- Pieza de dormir I. (Escribir todas las cosas que se desea hacer. / Pedir a otros que lo hagan y dormir hasta que terminen de hacerlas. / Dormir todo lo que se pueda.)
+
+El que encuentro algo drástico: 
+
+- Pieza de sangre. (Usar la propia sangre para pintar. / Seguir pintando hasta desmayarse (a) / Seguir pintando hasta morirse (b))
+
+### Apuntes generales 
+
+- Primera impresión del libro. Me gustó muchísimo más de lo que esperaba (lo juzgué antes de tiempo, pido perdón).  
+- Si bien se menciona antes, el libro está lleno de pequeñas instrucciones (que como extra sirven de ejemplo de partitura en relación a lo que estamos realizando ahora en el proyecto 03) que son como ideas (supongo) de lo que se debería realizar desde una perspectiva poética e imaginativa (considerando que hay cosas que no son tan realizables en la realidad, pero sí en la imaginación).
+- Leí por ahí que el lector deja de ser un receptor pasivo y pasa a convertirse en intérprete y creador, y me gusta mucho el concepto de ser parte de la obra, tanto como si realmente se hiciese en algún momento la interpretación de la instrucción, así solo sea algo que se imagina (en mi caso puedo imaginarme perfectamente todas las instrucciones; creo que por eso me gustó tanto, me sentí parte de lo leído). 
+- Diría que la obra puede existir únicamente en la imaginación de quien lee. 
+- Mis piezas favoritas fueron aquellas que convierten lo cotidiano en algo extraordinario/bello (o que normalmente no tomamos en cuenta). Me hicieron pensar que quizás estamos rodeados de experiencias artísticas que simplemente no solemos notar. 
+- Si bien cada capítulo tiene nombre de un tipo de arte o algo relacionado a eso (música, pintura, eventos, poesía, objetos), las instrucciones no necesariamente tienen que ver con lo que convencionalmente uno relacionaría a estos; es decir, en las instrucciones de música no es que alguien necesite saber tocar un instrumento, en pintura no es que alguien tenga que saber pintar; las instrucciones son más abstractas o metafóricas, no implican directamente utilizar como tal elementos relacionados con la categoría. 
+- Muchas veces se siente que el proceso creativo o del desarrollo de la instrucción es más relevante que el resultado final.
+- Me gustaría tener el libro en físico. 
+- No sé que tiene Yoko Ono con mandar cosas (por correo me imagino) a otras personas (y no explicarles nada). Tiene algo con regar también. 
+- Me da la sensación de que Yoko Ono intenta demostrar que el arte no depende necesariamente de la habilidad técnica de la persona que desarrolla la obra o de la existencia de un objeto/resultado final. Para ella es más importante la capacidad de prestar atención, imaginar y reinterpretar el mundo. 
+- ¿qué es arte y qué no lo es? ¿dónde está el límite?
+- Hay un fuerte componente de repetición y duración, por ejemplo en Pieza de risa o Pieza de amanecer, donde la insistencia convierte acciones simples en experiencias extrañas.
+- Algunas piezas me parecieron muy ¿poéticas?, especialmente Pieza de piedra, porque intenta registrar algo que considero imposibl pero que suena bello, "el sonido del envejecimiento de una piedra". Otras tienen un carácter humorístico o absurdo, como Pieza de viento, imaginando sombreros volando por toda una ciudad (o otras que no mencione dentro de mis favoritas como las que hablaban de nieve y edificios, etc).
+- Varias obras utilizan elementos naturales como parte del acto creativo (el cielo, el viento, las semillas o las sombras). ¿le da yoko ono importancia a los ecosistemas?
+
+
+
+
 
