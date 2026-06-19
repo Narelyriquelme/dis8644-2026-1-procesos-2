@@ -22,3 +22,17 @@ Como opinión personal, llevando esto al terreno de la soldadura, lo primero que
 *¿Por qué lo relaciono con Yoko Ono?*
 
 Porque estos capítulos me hicieron entender que soldar no es solo aplicar calor a un metal. Es un proceso de transformación material que tiene su propia lógica y sus propios límites. Lo que finalmente me enseñaron estos capítulos es que transformar un material no significa simplemente modificarlo, sino comprender sus límites, sus propiedades y las consecuencias de intervenirlo. Tanto en las instrucciones de Ono como en la soldadura, el resultado depende de entender cómo responde la materia a una acción determinada. Por eso la transformación no es solo un proceso técnico, sino también una forma de conocimiento.
+
+### Bitácora de Clase
+
+Finalmente recibimos las PCBs definitivas del grupo. Mientras mis compañeras empezaron con una placa de prueba para "calentar" y agarrar el ritmo de la técnica de soldadura, entendiendo, como dice Ono, que cada material responde distinto al calor, yo me enfoqué en la dimensión de la instrucción.
+
+Me senté en Illustrator a trabajar en las propuestas de las partituras. Exporté los contornos de nuestras tres PCBs desde KiCad para usarlos como base gráfica, buscando que la estética del sintetizador naciera de su propia anatomía técnica. Sin embargo, al mostrarle los avances al profesor, recibí un feedback importante: mis diseños eran demasiado abstractos.
+
+<img width="1411" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d24c0d2-654b-4f6d-a834-206d32b5813c" />
+<img width="1487" height="1025" alt="image" src="https://github.com/user-attachments/assets/6acf0e00-6395-4c5f-be59-445141c96fc7" />
+<img width="1005" height="701" alt="image" src="https://github.com/user-attachments/assets/0aa679ec-9b4e-45e1-8c88-becd5860a83f" />
+
+El profesor me sugirió dejar el diseño del fondo en segundo plano por ahora y concentrarme en la especificidad de las instrucciones. Al igual que en los capítulos de Cine, la instrucción debe ser lo suficientemente precisa para guiar un proceso que, de otro modo, es incontrolable o invisible.
+
+Mi tarea ahora es dejar de lado la abstracción visual pura y ser mucho más detallada en el "qué hacer". Debo lograr que quien lea la partitura entienda exactamente cómo interactuar con el sintetizador, antes de decidir qué tan bonito se ve el papel. La instrucción bien escrita es lo que realmente permite que la pieza ocurra.
