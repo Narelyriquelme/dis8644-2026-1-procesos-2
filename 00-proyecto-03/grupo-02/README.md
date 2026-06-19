@@ -21,6 +21,8 @@ Esta semana estuvo llena de dificultades por temas de salud de lxs miembros del 
 Nos decidimos a poblar todas las PCB, esto se debe a que queremos generer un sistema con estas placas, queremos experimentar con la mayoria de sus combinaciones y por lo mismo la carcasa tambien responde a esto.
 
 El punto más relevante de lo que queremos hacer es que esto viva por su propia cuenta, para lograrlo remplazamos _**todos**_ los potenciometros por LDR, la idea es lograr un sistema que responda al entorno
+
+El como llegamos a esto viene de revisar y darnos cuentas que muchas placas no poseían un _input_ lo que nos mermaba la posibilidad de interconectar modulos
   
 ## BOM (Bill of materiales)
 
