@@ -68,3 +68,12 @@ y también dejaré unos ejemplos que aparecen en el avance del proyecto para el 
 
 ![Placas](./imagenes/placas-07.jpeg)
 
+---
+
+## Pomelo Yoko Ono
+
+Antes que nada, seré sincero: no había leído nada de un libro de taller hasta el momento por motivos personales, de tiempo y por pereza, así que asumo que no los leí debidamente, pero al menos no los resumí con IA ;D
+
+Ahora sí, leí varias páginas de este libro y me recuerda personalmente al libro troll del Rubius, donde se plantean retos para hacerse, pero algunos resultan muy difíciles de cumplir, ya sea por la sociedad, cosas personales o simplemente porque no te gustaría hacerlo. En lo personal, siempre quise completar un libro así, pero este tiene un sentido que va más allá de lo posible de hacer por una sola persona en una sola vida, y porque la misma vida no te permite tener todas las posibilidades o todo lo que deseas. En ese sentido, se me hace muy extraño que esto sea una partitura, porque se vuelve una obra completamente inalcanzable. Aún así, decidimos colocar una partitura de este estilo en el proyecto, y nos fuimos más por el lado de conectar con uno mismo más que con el instrumento en sí, interactuando con él o sintiendo o viviendo alrededor de este mismo. Porque, de todas formas, lo que influye es tu interacción con el sonido, el instrumento y lo que se haga durante la instancia en la que se convive. Me parece bastante adecuado porque es lo que es vivir con lo natural y con la espontaneidad de las plantas y lo que es dejar ser, en caos o en equilibrio, pero que solamente sea.
+
+Eso es lo que tengo que acotar sobre lo que leí y cómo lo asociamos y lo aterrizamos a un punto más rescatable para nuestro proyecto, de alguna forma.
