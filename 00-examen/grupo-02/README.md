@@ -34,6 +34,22 @@ inspiración y referentes (con cita)
 
 ## Proceso
 
+| Proceso 1 | Proceso 2 | Proceso 3 | Proceso 4 |
+|---------|---------|---------|---------|
+|  ![Proceso01](./imagenes/pr-01.jpeg) | ![Proceso02](./imagenes/pr-02.jpeg) |  ![Proceso03](./imagenes/pr-03.jpeg) | ![Proceso04](./imagenes/pr-04.jpeg) |
+
+| Proceso 5 | Proceso 6 | Proceso 7 | Proceso 8 |
+|---------|---------|---------|---------|
+| ![Proceso05](./imagenes/pr-05.jpeg) | ![Proceso06](./imagenes/pr-06.jpeg) | ![Proceso07](./imagenes/pr-07.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
+
+| Proceso 9 | Proceso 10 | Proceso 11 | Proceso 12 |
+|---------|---------|---------|---------|
+| ![Proceso09](./imagenes/pr-09.jpeg) | ![Proceso10](./imagenes/pr-10.jpeg) | ![Proceso11](./imagenes/pr-11.jpeg) |  ![Proceso12](./imagenes/pr-12.jpeg) |
+
+| Proceso 13 | Proceso 14 | Proceso 15 | Proceso 16 |
+|---------|---------|---------|---------|
+| ![Proceso13](./imagenes/pr-13.jpeg) | ![Proceso16](./imagenes/pr-16.jpeg) | ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
+
 ## BOM (Bill of materiales)
 
 ### Reloj
@@ -262,7 +278,7 @@ detallar operación de la partitura, como se creó, cuales fueron los referentes
 | Referencia | Imagen |
 |------------|--------|
 | https://www.lovehulten.com/ | ![Love Hultén](./imagenes/) |
-|  | ![](./imagenes/) |
+| https://www.kickstarter.com/projects/oficinadesonido/my-first-modular | ![](./imagenes/) |
 |  | ![](./imagenes/) |
 |  | ![](./imagenes/) |
 |  | ![](./imagenes/) |
@@ -279,7 +295,7 @@ detallar operación de la partitura, como se creó, cuales fueron los referentes
 | https://www.acryl.cl/ | ![Acryl](./imagenes/) |
 | https://abingraf.cl/collections/planchas-de-acrilico/products/acrilico-mgraf-blanco-fundido-3-mm-liner-plastico-1-22-x-2-44-mts | ![Acrílico](./imagenes/) |
 | https://www.mundotransfer.cl/vinilo-de-corte-soft-cut-51-cm-ancho.html | ![Vinilo Soft Cut](./imagenes/) |
-| VINILO DE CORTE BRILLANTE METAMARK M4 0.61 MTS – Abingraf S.A. | ![Metamark M4](./imagenes/) |
+| https://abingraf.cl/products/vinilo-de-corte-brillante-metamark-m4-0-61-mts | ![Metamark M4](./imagenes/) |
 |  | ![](./imagenes/) |
 |  | ![](./imagenes/) |
 |  | ![](./imagenes/) |
