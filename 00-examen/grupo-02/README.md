@@ -50,6 +50,15 @@ inspiración y referentes (con cita)
 |---------|---------|---------|---------|
 | ![Proceso13](./imagenes/pr-13.jpeg) | ![Proceso16](./imagenes/pr-16.jpeg) | ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
 
+| Proceso 17 | Proceso 18 | Proceso 19 | Proceso 20 |
+|---------|---------|---------|---------|
+| ![Proceso21](./imagenes/pr-21.jpeg) | ![Proceso22](./imagenes/pr-22.jpeg) | ![Proceso23](./imagenes/pr-23.jpeg) |  ![Proceso12](./imagenes/pr-12.jpeg) |
+
+| Proceso 21 | Proceso 22 | Proceso 23 | Proceso 24 |
+|---------|---------|---------|---------|
+| ![Proceso13](./imagenes/pr-13.jpeg) | ![Proceso16](./imagenes/pr-16.jpeg) | ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
+
+
 ## BOM (Bill of materiales)
 
 ### Reloj
