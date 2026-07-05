@@ -167,25 +167,6 @@ Aquí están todas las tablas reorganizadas con un formato consistente. También
 
 ---
 
-# Grupo 2 – Nyan Cat (Secuenciador)
-
-| Componente                | Valor / Modelo | Cantidad | Valor Unitario (CLP) | Subtotal (CLP) | Link                                                                                                                                                                                                       |
-| ------------------------- | -------------- | :------: | -------------------: | -------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chip                      | CD4015         |     1    |               $1.400 |         $1.400 | [https://www.mactronica.com.co/cd4015](https://www.mactronica.com.co/cd4015)                                                                                                                               |
-| Regulador                 | L7805CV        |     1    |                 $350 |           $350 | [https://www.victronics.cl/reguladores/reguladorvoltl7805cv5v-15ato220/](https://www.victronics.cl/reguladores/reguladorvoltl7805cv5v-15ato220/)                                                           |
-| Transistor                | 2N2222         |     8    |                 $220 |         $1.760 | [https://www.cabezacuadrada.cl/product/pn2222a/](https://www.cabezacuadrada.cl/product/pn2222a/)                                                                                                           |
-| Transistor                | BC548          |     1    |                 $200 |           $200 | [https://www.mechatronicstore.cl/transistor-bc548/](https://www.mechatronicstore.cl/transistor-bc548/)                                                                                                     |
-| LED                       | 3 mm           |     9    |                 $100 |           $900 | [https://www.mechatronicstore.cl/led-3mm-5mm/](https://www.mechatronicstore.cl/led-3mm-5mm/)                                                                                                               |
-| Resistencia               | 220 Ω          |     8    |                  $90 |           $720 | [https://www.electroardu.cl/resistencias-1k-ohm](https://www.electroardu.cl/resistencias-1k-ohm)                                                                                                           |
-| Resistencia               | 1 kΩ           |    18    |                  $90 |         $1.620 | [https://www.electroardu.cl/resistencias-1k-ohm](https://www.electroardu.cl/resistencias-1k-ohm)                                                                                                           |
-| Resistencia               | 10 kΩ          |     1    |                  $90 |            $90 | [https://www.electroardu.cl/resistencias-1k-ohm](https://www.electroardu.cl/resistencias-1k-ohm)                                                                                                           |
-| Resistencia               | 100 kΩ         |     1    |                  $90 |            $90 | [https://www.electroardu.cl/resistencias-1k-ohm](https://www.electroardu.cl/resistencias-1k-ohm)                                                                                                           |
-| Diodo                     | 1N4007         |     1    |                 $200 |           $200 | [https://www.mechatronicstore.cl/diodo-rectificador-in4007-1n4007-4007/](https://www.mechatronicstore.cl/diodo-rectificador-in4007-1n4007-4007/)                                                           |
-| Condensador cerámico      | 100 nF         |     1    |                 $100 |           $100 | [https://www.mechatronicstore.cl/condensadores-ceramicos-distintos-valores/](https://www.mechatronicstore.cl/condensadores-ceramicos-distintos-valores/)                                                   |
-| Condensador electrolítico | 10 µF          |     1    |                 $100 |           $100 | [https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/](https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/) |
-| Condensador electrolítico | 100 µF         |     1    |                 $100 |           $100 | [https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/](https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/) |
-| Interruptor               | Switch ON/OFF  |     1    |                 $570 |           $570 | [https://www.katode.cl/switches/1339-interruptor-switch-2-pines-on-off-corto.html](https://www.katode.cl/switches/1339-interruptor-switch-2-pines-on-off-corto.html)                                       |
-
 Tiempo total de soldadura**
 
 ---
