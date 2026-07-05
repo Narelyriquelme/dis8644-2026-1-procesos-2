@@ -48,7 +48,7 @@ La carcasa adopta la forma de una geoda o un pequeño planeta cristalino. Los cr
 
 ---
 
-# Placas construidas
+# Placas utilizadas. 
 
 | Módulo              | Grupo     | Función       |
 | ------------------- | --------- | ------------- |
