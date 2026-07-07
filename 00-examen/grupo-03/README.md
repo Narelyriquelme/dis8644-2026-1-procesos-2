@@ -2,12 +2,13 @@
 
 ## integrantes
 
-+ Antonia Loch - [cuenta-github](https://github.com/bla)
-+ Narely Riquelme - [cuenta-github](https://github.com/bla)
-+ Ariel Orozco - [cuenta-github](https://github.com/bla)
-+ Vanessa García - [cuenta-github](https://github.com/bla)
-+ Carla Nuñez - [cuenta-github](https://github.com/bla)
 
++ Vanessa García / [vanessagarciaM](https://github.com/vanessagarciaM)
++ Antonia Loch / [antoloch](https://github.com/antoloch)
++ Carla Núñez / [ccarlabelenn](https://github.com/ccarlabelenn)
++ Ariel Orozco / [arielorozco024](https://github.com/arielorozco024)
++ Narely Riquelme / [Narelyriquelme](https://github.com/Narelyriquelme)
+  
 ## criterios de diseño del sistema
 
 inspiración para construir, desde donde partieron
